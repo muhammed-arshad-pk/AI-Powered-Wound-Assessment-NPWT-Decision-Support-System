@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+gradio==4.1.0
+tensorflow==2.10.1
+opencv-python-headless==4.9.0.80
+numpy<2
+Pillow
