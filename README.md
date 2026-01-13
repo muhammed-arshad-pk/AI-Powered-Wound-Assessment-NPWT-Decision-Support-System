@@ -76,7 +76,7 @@ The demo allows:
 
 ## Sample Test Images
 
-Example images are provided in the `sample_data/` folder:
+Example images are provided in the repo:
 
 | File | Description |
 |------|-------------|
